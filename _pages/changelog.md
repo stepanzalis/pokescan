@@ -7,6 +7,15 @@ include_in_header: true
 # Changelog
 <br>
 
+## Version 2.3.1
+Internal improvements.
+
+## Version 2.3.0
+Added option to select both by name and card's value.
+
+## Version 2.2.0
+We fixed several issues.
+
 ## Version 2.1.4
 We fixed an issue with opened keyboard after searching a card.
 
