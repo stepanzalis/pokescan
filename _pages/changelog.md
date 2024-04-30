@@ -7,6 +7,9 @@ include_in_header: true
 # Changelog
 <br>
 
+## Version 2.3.3
+Fixed initial count of collected cards when are not added to your collection. 
+
 ## Version 2.3.2
 Better price accuracy: All card prices are now fully updated to ensure you have the latest information.
 Improved card details: We've refined the card details view to display price information more clearly.
