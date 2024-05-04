@@ -7,6 +7,9 @@ include_in_header: true
 # Changelog
 <br>
 
+## Version 2.4.0
+We added option to see eBay prices with transaction history. Also we improved user experience for adding and removing a card from your collection.
+
 ## Version 2.3.3
 Fixed initial count of collected cards when are not added to your collection. 
 
