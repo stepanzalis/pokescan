@@ -6,6 +6,9 @@ include_in_header: true
 
 # Changelog
 <br>
+ 
+## Version 2.4.1
+This version unlocks card prices from TCGPlayer for everyone!  
 
 ## Version 2.4.0
 We added option to see eBay prices with transaction history. Also we improved user experience for adding and removing a card from your collection.
