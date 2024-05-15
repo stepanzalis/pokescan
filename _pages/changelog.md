@@ -6,7 +6,13 @@ include_in_header: true
 
 # Changelog
 <br>
- 
+
+## Version 2.6.0
+This version added option to change the currency of all prices.
+
+ ## Version 2.5.1
+This version of PokeScan includes bug fixes and usability updates.
+
 ## Version 2.4.1
 This version unlocks card prices from TCGPlayer for everyone!  
 
