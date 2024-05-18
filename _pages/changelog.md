@@ -8,6 +8,9 @@ include_in_header: true
 <br>
 
 ## Version 2.6.0
+We fixed several issues.
+
+## Version 2.6.0
 This version added option to change the currency of all prices.
 
  ## Version 2.5.1
