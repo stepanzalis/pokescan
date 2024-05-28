@@ -6,6 +6,14 @@ include_in_header: true
 
 # Changelog
 <br>
+## Version 2.6.3
+We fixed several issues.
+
+## Version 2.6.2
+We fixed several issues.
+
+## Version 2.6.1
+We fixed several issues.
 
 ## Version 2.6.0
 We fixed several issues.
