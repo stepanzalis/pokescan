@@ -6,6 +6,7 @@ include_in_header: true
 
 # Changelog
 <br>
+
 ## Version 2.7.1
 Performance improvements.
 
