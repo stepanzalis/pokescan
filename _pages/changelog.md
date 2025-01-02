@@ -7,7 +7,7 @@ include_in_header: true
 # Changelog
 <br>
 
-## Version 2.8.1
+## Version 2.8.4 / 2.8.5
 We added cards for Stellar Crown and Surging Sparks.
 
 ## Version 2.8.0
