@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-April 9 2024
+January 19 2025
 
 # Introduction
 At PokeScan Pro, we are committed to protecting your privacy. This Privacy Policy explains our practices regarding the collection, use, and protection of your information in relation to our iOS app. Currently, our app does not collect personal data or process payments.
@@ -20,6 +20,9 @@ Non-Personal Data: We may collect non-personal data related to app usage and per
 Security Measures: We employ industry-standard security measures to protect any information that may be collected. Although we currently do not collect personal or payment information, we are committed to ensuring the security of user data against unauthorized access, alteration, disclosure, or destruction.
 
 We use TelemetryDeck to collect anonymized usage data. This helps us understand how our users are using our app and how we can improve it. TelemetryDeck does not collect any personally identifiable information. You can read more about TelemetryDeck’s privacy policy at https://telemetrydeck.com/privacy
+
+## Consent to Share Consumption Data with Apple
+By using our app and making in-app purchases, you consent to our sharing of data regarding your usage and consumption of purchased content with Apple, as part of our efforts to resolve refund requests. This information may include details about how you have accessed and interacted with the purchased content. The purpose of sharing this data is to help Apple make an informed decision regarding refund requests. We ensure that such data sharing is done in compliance with Apple's policies and only as necessary to process your requests.
 
 ### Third-Party Services
 Limited Use: PokeScan Pro may utilize third-party services for app functionality enhancements that do not involve personal data processing. These services are selected with privacy and security in mind, and any data shared with them is limited to non-personal information necessary for their service provision.
